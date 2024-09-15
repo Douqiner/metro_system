@@ -1,0 +1,14 @@
+release/info_edge.o
+release/info_sation.o
+release/main.o
+release/mainwindow.o
+release/mygraph_view.o
+release/side_tool_edit.o
+release/startwindow.o
+release/qrc_res.o
+release/moc_info_edge.o
+release/moc_info_sation.o
+release/moc_mainwindow.o
+release/moc_mygraph_view.o
+release/moc_side_tool_edit.o
+release/moc_startwindow.o

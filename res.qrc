@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>img/day.ico</file>
+        <file>img/warn.png</file>
+        <file>img/tips.png</file>
+    </qresource>
+    <qresource prefix="/back">
+        <file>img/edit.png</file>
+        <file>img/use.png</file>
+    </qresource>
+</RCC>
